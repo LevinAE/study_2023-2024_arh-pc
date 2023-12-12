@@ -209,7 +209,7 @@ Markdown. В качестве отчёта необходимо предоста
 
 2. Загрузите файлы на github.
 
-![Рис.12 Файлы на github](image/gith2.png){#fig:001 width=70%}
+![Рис.12 Файлы на github](image/gith.png){#fig:001 width=70%}
 
 # Выводы
 
